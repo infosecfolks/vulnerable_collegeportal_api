@@ -1,14 +1,14 @@
-# Vulnerable_ecommerce_app
-This vulnerable e-commerce application is built in a Docker environment using Apache, PHP, and MySQL technologies. It is intended solely for educational purposes to practice penetration testing. Do not attempt these techniques on real-world applications without proper consent from the application owners.
+# Vulnerable_collegeportal_api
+This vulnerable college portal API is built in a Docker environment using API Layer, PHP, MySQL technologies, and Restful API's. It is intended solely for educational purposes to learn and practice API penetration testing. Do not attempt these techniques on real-world applications without proper consent from the application owners. Since this vulnerable API, do not host it in any product environment or publicly.
 
 Default username & password 
 ----------------------------
-username - ravi
-password - hod@123
+username - ravi ;
+password - hod@123 ;
 role - HOD (Head of the department)
 
-username - krishna
-password - abc123
+username - krishna ;
+password - abc123 ;
 role - Student
 
 ![Architecture](vulnerable_collegeportal_api.png)

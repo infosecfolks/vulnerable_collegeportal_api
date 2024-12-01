@@ -48,10 +48,10 @@ Verify the installation<br>
 > [!NOTE]
 > If you have docker and docker-compose, already skip the above steps and follow this below steps
 
-## Steps to run vulnerable ecommerce as docker container 
+## Steps to run vulnerable collegeportal API as docker container 
 
-After installing docker, now navigate to the cloned directory which is "vulnerable_collegeportal_api" and execute following docker commands <br> 
-to deploy and launch vulnerable college portal API
+After installing docker, now navigate to the cloned directory which is "vulnerable_collegeportal_api" and execute following docker commands 
+to deploy and launch vulnerable college portal API <br> 
 
 This command build and run both the containers and intialize database - One single command makes everything setup in background and api will be available on 9090 port for testing <br> 
 **#docker-compose up --build -d**
@@ -59,6 +59,7 @@ This command build and run both the containers and intialize database - One sing
 
 Follow us for more updates <br> 
 [INFOSEC FOLKS - LINKEDIN](https://www.linkedin.com/company/infosecfolks-global/) <br> 
+
 [INFOSEC FOLKS - YOUTUBE](https://www.youtube.com/@infosecfolks-global/) <br>
 [INFOSEC FOLKS Telugu - YOUTUBE](https://www.youtube.com/@InfosecFolks-Telugu/) <br>
 

@@ -45,12 +45,15 @@ Apply executable permissions<br>
 Verify the installation<br> 
 **#docker-compose --version**
 
+> [!NOTE]
+> If you have docker and docker-compose, already skip the above steps and follow this below steps
+
 ## Steps to run vulnerable ecommerce as docker container 
 
-After installing docker, now navigate to the cloned directory which is "vulnerable_ecommerce_app" and execute following docker commands <br> 
-to deploy and launch vulnerable ecommerce application
+After installing docker, now navigate to the cloned directory which is "vulnerable_collegeportal_api" and execute following docker commands <br> 
+to deploy and launch vulnerable college portal API
 
-This command build and run both the containers and intialize database - One single command make everything setupe in background and api will be available on 9090 port for testing <br> 
+This command build and run both the containers and intialize database - One single command makes everything setup in background and api will be available on 9090 port for testing <br> 
 **#docker-compose up --build -d**
 
 
